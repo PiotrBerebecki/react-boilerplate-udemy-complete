@@ -1,4 +1,5 @@
-**React Boilerplate**
+# React Boilerplate
+---
 
 The technologies include:
 
